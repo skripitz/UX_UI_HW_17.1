@@ -57,7 +57,7 @@ color: black;
 
 .PictureOfMe img {
   display: flex;
-  width: 500px;
+  width: 100%;
   float: right;
   margin-left: 100px;
 }
